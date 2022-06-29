@@ -32,7 +32,43 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.sidebar {
+  padding: 20px;
+  color: rgb(236, 145, 145);
+  border: 2px solid rgb(236, 145, 145);
+  margin: 10px 0;
+}
+
+.advert {
+  padding: 20px;
+  color: rgb(236, 145, 145);
+  border: 2px solid rgb(236, 145, 145);
+  margin: 10px 0;
+}
+
+.content {
+  padding: 20px;
+  color: rgb(236, 145, 145);
+  border: 2px solid rgb(236, 145, 145);
+  margin: 10px 0;
+}
+
+.nav {
+  padding: 50px;
+  color: rgb(236, 145, 145);
+  border: 2px solid rgb(236, 145, 145);
+  margin: 10px 0;
+}
+
+.container {
+  padding: 50px;
+  color: rgb(236, 145, 145);
+  border: 2px solid rgb(236, 145, 145);
+  margin-top: 20px;
 }
