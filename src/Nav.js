@@ -2,7 +2,11 @@ import React from "react";
 
 class Nav extends React.Component {
   render() {
-    return <header className="nav">Nav Component</header>;
+    return (
+      <div className="content">
+        <h2 className="text-center">Nav Component</h2>
+      </div>
+    );
   }
 }
 

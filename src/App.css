@@ -39,36 +39,38 @@
 }
 
 .sidebar {
-  padding: 20px;
-  color: rgb(236, 145, 145);
-  border: 2px solid rgb(236, 145, 145);
-  margin: 10px 0;
+  /* padding: 20px; */
+  /* color: rgb(236, 145, 145);
+  border: 2px solid rgb(236, 145, 145); */
+  /* margin: 10px 0; */
 }
 
 .advert {
   padding: 20px;
-  color: rgb(236, 145, 145);
-  border: 2px solid rgb(236, 145, 145);
+  color: #fff;
+  background-color: #4C9DE9;
   margin: 10px 0;
 }
 
 .content {
   padding: 20px;
-  color: rgb(236, 145, 145);
-  border: 2px solid rgb(236, 145, 145);
+  color: #fff;
+  background-color: #4C9DE9;
   margin: 10px 0;
 }
 
 .nav {
   padding: 50px;
-  color: rgb(236, 145, 145);
-  border: 2px solid rgb(236, 145, 145);
+  color: #fff;
+  background-color: #4C9DE9;
   margin: 10px 0;
+  /* text-align: center; */
 }
 
+
 .container {
-  padding: 50px;
+  /* padding: 50px;
   color: rgb(236, 145, 145);
   border: 2px solid rgb(236, 145, 145);
-  margin-top: 20px;
+  margin-top: 20px; */
 }

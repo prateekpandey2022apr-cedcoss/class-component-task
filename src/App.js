@@ -7,7 +7,6 @@ function App() {
   return (
     <>
       <div className="container">
-        <h1>A React App</h1>
         <Nav />
         <Main />
       </div>
